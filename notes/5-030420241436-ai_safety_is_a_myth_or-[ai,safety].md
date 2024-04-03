@@ -10,4 +10,4 @@ It seems like [we have only 5 years left](https://time.com/6564434/connor-leahy-
 
 And some company CEO's, like Meta and Cohere, says METR tests are far-fetched. I also agree with this sentiment. I think current LLM modals are far-away from self-replicating. I think danger lies in misusing AI technologies by humans rather than AI itself. People can create synthetic videos, deepfakes, voices etc. and spread them through internet. I think this is the real danger not self-replicating AI bots.
 
-(Nobody Knows How to Safety-Test AI)[https://time.com/6958868/artificial-intelligence-safety-evaluations-risks]
+[Nobody Knows How to Safety-Test AI](https://time.com/6958868/artificial-intelligence-safety-evaluations-risks)
