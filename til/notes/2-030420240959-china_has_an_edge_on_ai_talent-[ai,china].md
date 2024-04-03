@@ -8,4 +8,4 @@ And also, with the latest development in law system, some chinese researchers ar
 
 As a result, more chinese researchers tend to stay in China rather than migrating to United States. It might have impact on competitiveness of United States in AI field. But, more interestingly it clearly shows that China is ahead of United States in talent-growing. It'll have important impact.
 
-[Link] https://www.nytimes.com/2024/03/22/technology/china-ai-talent.html?utm_source=tldrai
+[Link](https://www.nytimes.com/2024/03/22/technology/china-ai-talent.html?utm_source=tldrai)
