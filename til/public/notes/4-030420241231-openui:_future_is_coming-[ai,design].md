@@ -1,4 +1,4 @@
-![Tux, the Linux mascot](/openui-demo.gif)
+![Tux, the Linux mascot](/open-ui.gif)
 
 Just had a chance to play with OpenUI's new toy. It's basically LLM engine to build UI's step by step with prompt engineering. For a long time we were having discussions around how AI based tools might impact our future. Debates got heated and divided people into two camps. One camp was saying that AI can't do what software engineers do, such as architecting, tech-debt & complexity management, code reviews, performance optimizations, dependency analysis etc.
 
