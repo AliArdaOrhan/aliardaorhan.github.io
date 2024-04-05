@@ -1,13 +1,15 @@
 import React, { useEffect } from "react";
 import "./App.css";
 import "tailwindcss/tailwind.css";
-import dayjs from "dayjs";
 import TILList from "./components/til-list/TILList";
 import Header from "./components/header/Header";
-
+import PlusButton from "./components/plus-button/PlusButton";
+import Modal from "./components/modal/Modal";
 
 function App() {
   const [tils, setTils] = React.useState([]);
+  const [isModalOpen, setIsModalOpen] = React.useState(false);
+  const [isBeReady, setIsBeReady] = React.useState(false);
 
   useEffect(() => {
     const fetchData = async () => {
@@ -19,29 +21,24 @@ function App() {
     fetchData();
   }, []);
 
+  const onPlusButtonClicked = () => {
+    setIsModalOpen(!isModalOpen);
+  };
+
   return (
     <div className="App">
       <Header />
       {tils && tils.length > 0 && <TILList tils={tils} />}
-      {/* Content Container*/}
-      {/* <div className="bg-gray-200 p-4 flex justify-center items-center flex-col"> */}
-        {/* {
-          tils.map((til) => (
-            <Card
-             // @ts-ignore
-              key={til.id}
-              // @ts-ignore
-              title={til.title}
-              // @ts-ignore
-              description={til.text}
-              // @ts-ignore
-              tags={til.tags}
-              // @ts-ignore
-              date={til.timestamp}
-            />
-          ))
-        } */}
-      {/* </div> */}
+      {isBeReady && <PlusButton onClick={onPlusButtonClicked} />}
+      {isBeReady && (
+        <Modal
+          title="Create new post"
+          isOpen={isModalOpen}
+          onClose={onPlusButtonClicked}
+        >
+          <div>Modal Content</div>
+        </Modal>
+      )}
     </div>
   );
 }
