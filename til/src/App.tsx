@@ -1,8 +1,9 @@
 import React, { useEffect } from "react";
 import "./App.css";
 import "tailwindcss/tailwind.css";
-import Card from "./Card";
 import dayjs from "dayjs";
+import TILList from "./components/til-list/TILList";
+import Header from "./components/header/Header";
 
 
 function App() {
@@ -49,7 +50,7 @@ function App() {
       });
 
       const tils = await Promise.all(promises);
-      
+
       tils.sort((a, b) => dayjs(b.timestamp).unix() - dayjs(a.timestamp).unix());
       // @ts-ignore
       setTils(tils);
@@ -63,9 +64,11 @@ function App() {
   console.log(tils)
   return (
     <div className="App">
+      <Header />
+      <TILList tils={tils} />
       {/* Content Container*/}
-      <div className="bg-gray-200 p-4 flex justify-center items-center flex-col">
-        {
+      {/* <div className="bg-gray-200 p-4 flex justify-center items-center flex-col"> */}
+        {/* {
           tils.map((til) => (
             <Card
              // @ts-ignore
@@ -80,8 +83,8 @@ function App() {
               date={til.timestamp}
             />
           ))
-        }
-      </div>
+        } */}
+      {/* </div> */}
     </div>
   );
 }
