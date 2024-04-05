@@ -1,5 +1,12 @@
-ChatGPT answers:
+---
+id: 12
+title: Why do we use normalization?
+date: 2024-04-04 14:37:00
+tags: 
+  - stats
+---
 
+ChatGPT answers:
 
 > Of course! Imagine you have a bunch of different things, like toys, candies, and books. Now, let's say you want to compare them or put them together in a fair way. But toys might be measured in how fun they are, candies by how sweet they are, and books by how many pages they have. It's like comparing apples and oranges!
 >

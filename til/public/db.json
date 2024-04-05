@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "title": "Talent vs Culture Problem",
+    "date": "2020-04-02T15:43:00.000Z",
+    "tags": [
+      "management"
+    ],
+    "content": "\n\nAfter 12 years of software engineering, including 6 years of team management experience, I came to conclusion that modern management theory doesn't work. Most of those principles, techniques and frameworks hit the wall when there's a information asymmetry between you and your peers. Most of the people are driven by their biases, perspectives and perceptions rather than data. Here are some of my observations:\n\n- Happiness and performance is negatively correlated in most cases. I've never seen a team that is highly efficient and happy at the same time. When I say highly efficient, I'm not talkin about producing more work. I'm talking about producing more with higher quality. \n- Only way to have a happy and performative team is finding the right people who become happy as they become more productive. These people are rare and if you're mediocere company, the chances you find them are very very low.\n- Even if you find some, because surrounding culture doesn't appropriate the same characteristics, they'll be extremely unhappy. In worse cases, they'll be problematic as they can't fit into the company.\n- Most of the hiring managers becomes very happy whenever they encounter these rare breeds. But most of those managers are not equipped well to manage these people. They're driven by their biases, perspectives and perceptions. They're not interested in data. They're interested in their opinions.\n- Especially, it become more problematic when most of those managers starts to feel incompetent and gets into some sort of competition with those people. Interestingly, they always do. Most common tactic is using other peoples opinions about these talents to oppress them and play some sort of power game. \n- These eyes saw extremely productive people put in PIP programs because they don't give answers others like. They're accused to be aggresive, uncollaborative, uncommunicative etc.\n- As a result, it ends up with a disaster. These people are either fired or they leave the company. \n\nAll of this brings us a siatution where I think modern management practices fails. Because, it doesn't deliver the basic premise of it, which is as you get those principles, you'll get better results. But, in reality it actually ends up in personal tragedy where you think you're doing correct thing, while others try to persuade you that you're actually wrong.\n\nBut, let me be honest, I think most of the companies around the world are in this situation. They're valuing artificial harmony over productive conflicts. The peter principle is usually the case. Good engineers became managers without necessary skillset and causes good talents to be oppressed. \n\nSome might argue that not every company is a good company. But, the biggest problem about it is basically these priciples are not applicable. It ends up with worse results rather than better ones. At the end we left with mediocre talents working for mediocre companies where people protect their turf rather than working for a common goal.",
+    "slug": "1-020420241543-talent_vs_culture_problem-[management]"
+  },
+  {
+    "id": 10,
+    "title": "Traditional media loses blood",
+    "date": "2024-04-04T10:43:00.000Z",
+    "tags": [
+      "media"
+    ],
+    "content": "\n\nWohooo... What a year... AI, EV, Wars, Scandals and so on. But, Obviously not for traditional media. \n\nElon Musk has ignited a conversation about the current status of traditional media and as you guys already know he's not a biggest fan of them. But, tweets contain 2 charts which clearly shows that media giants Bloomberg and WSJ clearly losing their organic traffic. After the invention of world wide web, they were obviously losing their power however it's evident that we're passing a critical threshold here.\n\n![Bloomberg](/bloomberg-organic-traffic.jpeg)\n\n![WSJ](/wsj-organic-traffic.jpeg)\n\nBut, is it really a good thing? Obviously, Internet is the great equalizer. But, it's also a place where millions of people who claim to have the truth share their opinions which are mostly crafted through their biases, beliefs and subjective experiences. It's overwhelming to keep up with it. And, not interestingly, the social media is designed to keep you engaged which actually favors the most entertaining and controversial content rather than the most truthful one.\n\nDon't get me wrong. I'm not saying traditional journalism should come back. But, I think we should be more cautious about how journalism will look like in the future and how we can make it better, in which I don't have slightest idea.\n\n\n\n\n",
+    "slug": "10-040420241043-traditional_media_loses_blood-[media]"
+  },
+  {
+    "id": 11,
+    "title": "HireVue: an abomination or what?",
+    "date": "2024-04-04T12:11:52.000Z",
+    "tags": [
+      "ai",
+      "hr"
+    ],
+    "content": "\n\n![HireVue Logo](/hirevue-logo.svg)\n\nI've come across an HR tool called HireVue, which uses AI to analyze video interviews. It's designed to address the first screening interview and provides you with 4-5 different behavioral questions, asking you to record your answers. Then, it analyzes your answers and gives you a score.\n\nThe selling point is that it saves time for HR departments and provides a more objective evaluation. On the other hand, people are frustrated by it, and a couple of Reddit and Quora discussions show that it tends to be found uncomfortable, dystopian, and dehumanizing. [1](https://www.reddit.com/r/recruitinghell/comments/ycxn19/anyone_ever_did_a_video_interview_with_hirevue/) [2](https://www.reddit.com/r/recruitinghell/comments/kd1q4w/fuck_hirevue_and_any_company_that_makes/) [3](https://www.quora.com/HireVue-offends-me-Am-I-officially-an-old-dog)\n\nI have mixed feelings about it. As a firm believer in AI-based systems, I see it as a huge step in empowering us with AI-based solutions and always think that data beats opinion. Additionally, I find the bias problem addressable to some extent with tweaking the parameters that model is using.\n\nOn the other hand, accusing models of having bias while ignoring human biases, perspectives, and perceptions seems unfair to technologists. I sincerely believe that even if models have biases, they'll outperform any human being. Therefore, these kinds of explosive comments started making me think that people are missing the point. Humans are not perfect at all... **And machines can help us.**\n\nSo, long story short, in an environment where a job posting receives hundreds of applications, using these models to filter out candidates who wouldn't fit the role would result in better outcomes than incompetent, junior talent acquisition specialists.\n\nSo, the sun is shining, the birds are singing, and AI is coming. Let's embrace it.\n\n[HireVue](https://www.hirevue.com/)\n\n",
+    "slug": "11-040420241152-hirevue_abomination_or_what-[ai,hr]"
+  },
+  {
+    "id": 12,
+    "title": "Why do we use normalization?",
+    "date": "2024-04-04T14:37:00.000Z",
+    "tags": [
+      "stats"
+    ],
+    "content": "\n\nChatGPT answers:\n\n> Of course! Imagine you have a bunch of different things, like toys, candies, and books. Now, let's say you want to compare them or put them together in a fair way. But toys might be measured in how fun they are, candies by how sweet they are, and books by how many pages they have. It's like comparing apples and oranges!\n>\n> Normalization in statistics is like putting all these things on the same scale so you can compare them easily. It's like if you had a magic machine that makes all toys the same size, all candies the same sweetness, and all books the same thickness. Now, you can compare them much more easily because they're all measured in the same way.\n> \n> For example:\n>\n> **Grades in School:** Let's say you have grades from different subjects like Math, Science, and History. Math grades might go from 0 to 100, Science from 0 to 90, and History from 0 to 80. Normalization would make them all out of 100 so you can compare them better.\n>\n> **Temperature:** You have temperatures in Celsius and Fahrenheit. Normalizing them could make them all in one unit, like Celsius, so it's easier to understand.\n>\n> **Weightlifting:** You have people lifting weights. Some are lifting 50 pounds, some 100 pounds, and some 150 pounds. Normalization might adjust their lifting scores based on their body weight, so it's fair for everyone to compete.\n>\n> So, normalization helps make things fair and comparable by putting them all on the same scale.\n",
+    "slug": "12-040420241437-why_do_we_use_normalization-[stats]"
+  },
+  {
+    "id": 13,
+    "title": "Pair programming with Copilot and ironies of automation",
+    "date": "2024-04-05T10:12:00.000Z",
+    "tags": [
+      "ai",
+      "codegen"
+    ],
+    "content": "\n\nPair-programming is a common practice across the software industry. At first look, it seems like it's doubling the effort and halving the productivity. But, studies shows that it actually adds up 15% to development time while resulting in %15 less error. Some people compares it to having 2 pilots in cockpit. Where second pilot is there to monitor flight and ready to take over.\n\n[Studies](https://www.gitclear.com/coding_on_copilot_data_shows_ais_downward_pressure_on_code_quality) shows that Since 2022 copy-pasting is on rise. Another study found out that codegen tools deliver code that is valid about 90% of the time, passes 60% of unit tests, and is secure about 60%. \n\nLong story short: AI job is to be fast while yours is to be good. Someone still needs to provide guardrails for the code generated. \n\nOn the other hand, it reminds me [\"ironies of automation\"](https://www.sciencedirect.com/science/article/abs/pii/0005109883900468) research paper where it's stated that as automation increases, human's role becomes more crucial in different ways.\n\nFirst, human needs to monitor the system automated in our case it's the codegen tool we're utilising. To do so, somebody needs to understand what would be the desired output. And, it's not that easy. It requires an experienced pair of eyes to judge whether the code generated is valid, secure and maintainable.\n\nSecond, skills that are not used are deteoriated. So, particularly in our case experienced engineers are in danger of losing their sharpness as they stop thinking about structured problem solving and delegating it to the AI. It applies to junior developers as well. As we all know it, coding is learned by practicing. During the programming, programmers reason about structures, recognized patterns and applies techniques to solve the problem elegantly. How junior engineers will understand validity, quality and security of the code generated if they don't practice it?\n\nSo, I think in a few years codegen tools will become unreplacable part of our daily routine. But, they're not silver bullets and kind of far away from replacing software engineers as of now - Although I believe we'll be replaced in 5-10 year scale. Therefore, my suggestion in this transition period to developers, don't let it to deteriorate your skills. And, keep practicing until you master it. \n\n\n",
+    "slug": "13-050420241012-pair_programming_model_for_codegen-[ai,codegen]"
+  },
+  {
+    "id": 2,
+    "title": "China has an serious edge on AI talent",
+    "date": "2020-04-03T09:59:00.000Z",
+    "tags": [
+      "ai",
+      "china"
+    ],
+    "content": "\n\nI've just read a blog post about how China is leading on AI talent. Appearently, China is leading world on producing AI talents. And specifically, it's not just in China also in United States, Chinese people becoming increasingly more dominant in AI field.\n\nAccording to the research, Chinese researches **make up 38 percent of the top AI researches in the United States** at the moment. The number was **27 compared to 3 years** before. Currently, **Americans make up for 37 percent and it was 31 percent 3 years before.**\n\nInterestingly, China is more focused on manufacturing capabilities rather than digital technologies like ChatGPT etc.\n\nAnd also, with the latest development in law system, some chinese researchers are prosecuted for sharing their research with the Chinese goverment. \n\nAs a result, more chinese researchers tend to stay in China rather than migrating to United States. It might have impact on competitiveness of United States in AI field. But, more interestingly it clearly shows that China is ahead of United States in talent-growing. It'll have important impact.\n\n[In One Key A.I. Metric, China Pulls Ahead of the U.S.: Talent](https://www.nytimes.com/2024/03/22/technology/china-ai-talent.html)",
+    "slug": "2-030420240959-china_has_an_edge_on_ai_talent-[ai,china]"
+  },
+  {
+    "id": 3,
+    "title": "At last... Apple is working on AI empowered Siri",
+    "date": "2020-04-03T11:36:00.000Z",
+    "tags": [
+      "apple",
+      "ai"
+    ],
+    "content": "\n\nSiri researchers are working on a new AI empowered modal that will outperform chatgpt-4. Benchmarks are completed against ChatGPT-4. What they're doing is basically feeding their new LLM modal ReaLM with screenshots. It'll be very interesting to see them compete with OpenAI. I think Apple has a lot to give in this space.\n\n[Link](https://9to5mac.com/2024/04/01/apple-ai-gpt-4/?utm_source=tldrai)",
+    "slug": "3-030420241136-apple_is_working_on_ai_empowered_siri-[apple,ai]"
+  },
+  {
+    "id": 4,
+    "title": "OpenUI: Future is coming",
+    "date": "2020-04-03T12:31:00.000Z",
+    "tags": [
+      "ai",
+      "design"
+    ],
+    "content": "\n\n![OpenUI Demo](/openui-demo.gif)\n\nJust had a chance to play with OpenUI's new toy. It's basically LLM engine to build UI's step by step with prompt engineering. For a long time we were having discussions around how AI based tools might impact our future. Debates got heated and divided people into two camps. One camp was saying that AI can't do what software engineers do, such as architecting, tech-debt & complexity management, code reviews, performance optimizations, dependency analysis etc.\n\nBut, most of these people are missing a key point which is that the change will be huge it'll change all domain language we're using. Basically the question here is define tech-debt & complexity in ai world.\n\nThere's a mantra says that [**code is read more than written**](https://www.goodreads.com/quotes/835238-indeed-the-ratio-of-time-spent-reading-versus-writing-is). That's true in a world where most of the code is written and reviewed by humans. But, do we really think it'll be same in AI based software engineering? I don't think so. \n\nArchitecture, complexity, code reviews are human construct. They're not universal facts that machine can operate on. They're based on human experiences. And, as we know, AI can't experience. It can only learn from data.\n\nSo, long story short, I think we're at the brink of a new era where everybody will become prompt engineer including designers, product managers, people managers and obviously engineers. It's an exciting age to be in.\n\n[Link](https://github.com/wandb/openui)",
+    "slug": "4-030420241231-openui_future_is_coming-[ai,design]"
+  },
+  {
+    "id": 5,
+    "title": "AI Safety is a Myth or Reality?",
+    "date": "2020-04-03T14:36:00.000Z",
+    "tags": [
+      "ai",
+      "safety"
+    ],
+    "content": "\n\nRead an article about METR which is non-profit organization for safety-test of AI. It seems like nobody knows how to safety-test AI and METR specifically focusing on whether AI bots can self-replicate itselves and spread through internet. Because, if it can, then it'll be challenging to turn off AI bots. \n\nBut, it's also a pragmatic decision as it requires less specialized expertise than, say, biosecurity testing. Anyways, it's an important topic where 15 different AI companies also commit to have responsibility to test new models for self-replicating techniques.\n\nIt sounds like safety-test will become very crucial in the future.\n\nNIST president [Elham Tabassi](https://time.com/collection/time100-ai/6310638/elham-tabassi/) says that community doesn't have an answer for systemic approach at the moment.\n\nIt seems like [we have only 5 years left](https://time.com/6564434/connor-leahy-ai-risk-deepfakes/) before AI could pose an existential threat to humanity.\n\nAnd some company CEO's, like Meta and Cohere, says METR tests are far-fetched. I also agree with this sentiment. I think current LLM modals are far-away from self-replicating. I think danger lies in misusing AI technologies by humans rather than AI itself. People can create synthetic videos, deepfakes, voices etc. and spread them through internet. I think this is the real danger not self-replicating AI bots.\n\n[Nobody Knows How to Safety-Test AI](https://time.com/6958868/artificial-intelligence-safety-evaluations-risks)\n",
+    "slug": "5-030420241436-ai_safety_is_a_myth_or-[ai,safety]"
+  },
+  {
+    "id": 6,
+    "title": "Are we outsmarted by machines?",
+    "date": "2020-04-03T14:58:00.000Z",
+    "tags": [
+      "ai",
+      "agi"
+    ],
+    "content": "\nSince 1960's we've been discussing about machines that can outperform human capabilities. And, most of the predictions were wrong. But, 2022 with the advancements in LLM modals, the debate heated up again.\n\nEspecially, given the [scaling laws for neural language models](https://openai.com/research/scaling-laws-for-neural-language-models), some CEO's like Sam Altman, Dario Amaradei thinks that in the next 5 years, we'll have AGI (Artificial General Intelligence) which can outperform human at any cognitive task.\n\nOn the other hand, AI experts that are asked about when high-level intelligence machine will come, their predictions seemed to be updated from 2060 to 2047 in one year. There're a lot of uncertainties in the field. And, also people like Tetlock warns us that expert forecasts are usually wrong as history shows.\n\nOn the other hand, Hubert Deyfus actually thinks that interpreting current methodologies as evidence of AGI is like seeing first monkey climbed a tree as evidence of a moon landing. So, a little bit of skepticism is needed.\n\nHowever, most of the people agree that around 2030 AI systems will be able to do individual tasks better humans. For example, experts predict that first best-seller book will be written by a machine around 2029. And, around 2028, AI will hit top 40 in the music charts.\n\nOn philosophical side, definition of intelligence and how current AI systems fit into that definition might be a still big debate. However, for mere mortals like us, all of these technologies already outperformed us in many ways. They can write code, write articles, play games, drive cars better than us. For people, they're already smart whether they have human-level intelligence is a academic question rather than practical one. \n\nI think most important question for us at this point is what would be the impact of these new technologies on our lives and how we can prevent them from being used in a harmful and descructive way.\n\n\n[When AI outsmart humans](https://time.com/6556168/when-ai-outsmart-humans/)\n\n",
+    "slug": "6-030420241458-are_we_outsmarted_by_machines-[ai,agi]"
+  },
+  {
+    "id": 7,
+    "title": "We can fight against deepfakes as we fought against pedohilia",
+    "date": "2020-04-03T15:37:00.000Z",
+    "tags": [
+      "ai",
+      "safety"
+    ],
+    "content": "\n\nAI-safety is one of the biggest buzzwords nowadays. Although, we don't know how to safety-test AI or we don't have a systematic way to prove that AI system under test is safe, we can still fight agains deepfakes as we fough against pedohiles.\n\nCEO of the Conjecture, AI-safety company, Connor Leah thinks that just punishing people who uses deepfake technologies is not enough. We have to attack supply-chain as we did with pedos where we punish people who creates it, who hosts it, who shares it etc.\n\nAdditionally, we can make people who builds tools to create deepfakes to be accountable for the potential damage it can cause to society. So, basically we can watermark the videos, images etc. to make it traceable. And, whenever something illegal happens we can track the content back to the source.\n\nIt makes sense to some extend and probably will be helpful. But on the other hand Connor Leah thinks we should slow down AI progress by introducing compute-cap where companies which researches AI should have a limit on how much compute they can use. I don't think in this high competitive world, this will be a good idea. It basically assumes that countries like China, Russia will follow the rules. But, in reality they're closed economies and would be very challenging to enforce those rules on them. Therefore, I don't thin American companies will accept this idea of where they're suffering from the rules but others are not. Especially, in a time where Chinese AI researchers are already ahead of American researchers.\n\n[To Stop AI Killing Us All, First Regulate Deepfakes, Says Researcher Connor Leahy](https://time.com/6564434/connor-leahy-ai-risk-deepfakes/)",
+    "slug": "7-030420241537-we_can_fight_against_deepfakes_as_we_fought_against_pedos-[ai,safety]"
+  },
+  {
+    "id": 8,
+    "title": "US to ban TikTok which is an empty threat",
+    "date": "2020-04-03T15:59:00.000Z",
+    "tags": [
+      "tech",
+      "safety"
+    ],
+    "content": "\nCongress passed a bill to ban tiktok which seems like an empty threat. First of all, it's against freedom of speech which would make bill subject to judical review. If you combine this with Tiktok is storing US data in Oracle's servers, it's not clear how Congress can validate their reasoning. \n\nAdditionally, the law itself is unenforcable. It would prevent TikTok to be distributed in US but it wouldn't prevent people to use it. \n\nLast but not least, it doesn't solve the actual problem which is that China is gathering sensitive data from US citizens. Congress ignores that most of tech companies collect these data and sells them through data brokers. Furthermore, the data collected by Tiktok is not that sensitive. It's more about social media usage, location data etc.\n\nSo, it seems like the proposed ban is rather a economical move to force owner company(ByteDance) to sell it to US owners.\n\n[The House TikTok Ban Is an Empty Threat](https://time.com/6962823/house-tiktok-ban-is-an-empty-threat/)",
+    "slug": "8-030420241559-us_to_ban_tiktok_which_is_an_empty_threat-[tech,safety]"
+  },
+  {
+    "id": 9,
+    "title": "Tesla sales drop significantly",
+    "date": "2024-04-04T10:08:00.000Z",
+    "tags": [
+      "ev",
+      "tesla"
+    ],
+    "content": "\n\nAccording to CNBC-E Tesla sales drop significantly in the first quarter of 2024. Company expected to sell 440.000 cars but numbers are around 360.000. Due to this, share numbers dropped 8.5%.\n\nIt starts to feel like competition from BYD and Xiaomi is starting to take a toll on Tesla. Let's see what will be the Elon's next move. \n\n[Tesla shares fall after deliveries drop 8.5% from a year ago](https://www.cnbc.com/2024/04/02/tesla-tsla-q1-2024-vehicle-delivery-and-production-numbers.html?utm_source=tldrnewsletter)",
+    "slug": "9-040420241008-tesla_sales_drop_significantly-[ev,tesla]"
+  }
+]

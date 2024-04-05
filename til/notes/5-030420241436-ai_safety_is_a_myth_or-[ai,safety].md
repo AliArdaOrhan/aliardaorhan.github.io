@@ -1,3 +1,12 @@
+---
+id: 5
+title: AI Safety is a Myth or Reality?
+date: 2020-04-03 14:36:00
+tags: 
+  - ai
+  - safety
+---
+
 Read an article about METR which is non-profit organization for safety-test of AI. It seems like nobody knows how to safety-test AI and METR specifically focusing on whether AI bots can self-replicate itselves and spread through internet. Because, if it can, then it'll be challenging to turn off AI bots. 
 
 But, it's also a pragmatic decision as it requires less specialized expertise than, say, biosecurity testing. Anyways, it's an important topic where 15 different AI companies also commit to have responsibility to test new models for self-replicating techniques.

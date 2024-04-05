@@ -1,3 +1,12 @@
+---
+id: 11
+title: "HireVue: an abomination or what?"
+date: 2024-04-04 12:11:52
+tags: 
+  - ai
+  - hr
+---
+
 ![HireVue Logo](/hirevue-logo.svg)
 
 I've come across an HR tool called HireVue, which uses AI to analyze video interviews. It's designed to address the first screening interview and provides you with 4-5 different behavioral questions, asking you to record your answers. Then, it analyzes your answers and gives you a score.

@@ -1,4 +1,11 @@
-
+---
+id: 6
+title: Are we outsmarted by machines?
+date: 2020-04-03 14:58:00
+tags: 
+  - ai
+  - agi
+---
 Since 1960's we've been discussing about machines that can outperform human capabilities. And, most of the predictions were wrong. But, 2022 with the advancements in LLM modals, the debate heated up again.
 
 Especially, given the [scaling laws for neural language models](https://openai.com/research/scaling-laws-for-neural-language-models), some CEO's like Sam Altman, Dario Amaradei thinks that in the next 5 years, we'll have AGI (Artificial General Intelligence) which can outperform human at any cognitive task.

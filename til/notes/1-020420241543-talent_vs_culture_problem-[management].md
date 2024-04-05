@@ -1,3 +1,11 @@
+---
+id: 1
+title: Talent vs Culture Problem
+date: 2020-04-02 15:43:00
+tags: 
+  - management
+---
+
 After 12 years of software engineering, including 6 years of team management experience, I came to conclusion that modern management theory doesn't work. Most of those principles, techniques and frameworks hit the wall when there's a information asymmetry between you and your peers. Most of the people are driven by their biases, perspectives and perceptions rather than data. Here are some of my observations:
 
 - Happiness and performance is negatively correlated in most cases. I've never seen a team that is highly efficient and happy at the same time. When I say highly efficient, I'm not talkin about producing more work. I'm talking about producing more with higher quality. 

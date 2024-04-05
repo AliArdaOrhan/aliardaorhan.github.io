@@ -1,3 +1,12 @@
+---
+id: 7
+title: We can fight against deepfakes as we fought against pedohilia
+date: 2020-04-03 15:37:00
+tags: 
+  - ai
+  - safety
+---
+
 AI-safety is one of the biggest buzzwords nowadays. Although, we don't know how to safety-test AI or we don't have a systematic way to prove that AI system under test is safe, we can still fight agains deepfakes as we fough against pedohiles.
 
 CEO of the Conjecture, AI-safety company, Connor Leah thinks that just punishing people who uses deepfake technologies is not enough. We have to attack supply-chain as we did with pedos where we punish people who creates it, who hosts it, who shares it etc.

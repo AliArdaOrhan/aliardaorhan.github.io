@@ -1,3 +1,12 @@
+---
+id: 13
+title: Pair programming with Copilot and ironies of automation
+date: 2024-04-05 10:12:00
+tags: 
+  - ai
+  - codegen
+---
+
 Pair-programming is a common practice across the software industry. At first look, it seems like it's doubling the effort and halving the productivity. But, studies shows that it actually adds up 15% to development time while resulting in %15 less error. Some people compares it to having 2 pilots in cockpit. Where second pilot is there to monitor flight and ready to take over.
 
 [Studies](https://www.gitclear.com/coding_on_copilot_data_shows_ais_downward_pressure_on_code_quality) shows that Since 2022 copy-pasting is on rise. Another study found out that codegen tools deliver code that is valid about 90% of the time, passes 60% of unit tests, and is secure about 60%. 
