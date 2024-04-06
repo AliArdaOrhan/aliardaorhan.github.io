@@ -1,6 +1,6 @@
 ---
 id: 16
-title: American capitalism at its best
+title: American capitalism at its best 🇺🇸
 date: 2024-04-06 22:00:00
 tags: 
   - economy
