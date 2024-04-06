@@ -2,6 +2,7 @@ import React from "react";
 import { TILModel } from "../../models/tils";
 import ReactMarkdown from "react-markdown";
 import TILTag from "../til-tag/Tag";
+import dayjs from "dayjs";
 
 interface TILProps {
   til: TILModel;
@@ -24,7 +25,7 @@ const TIL: React.FC<TILProps> = ({ til }) => (
         </div>
         {/* Date */}
         <div className="text-center">
-          <p className="text-sm text-gray-600 font-bold">{til.timestamp}</p>
+          <p className="text-sm text-gray-600 font-bold">{dayjs(til.date).format('YYYY-MM-DD HH:mm')}</p>
         </div>
       </div>
     </div>

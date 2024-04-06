@@ -8,12 +8,13 @@ interface TILListProps {
   tils: TILModel[];
 }
 
-const TILList: React.FC<TILListProps> = ({ tils }) => (
+const TILList: React.FC<TILListProps> = ({ tils }) => {
+  return (
   <div className="p-4 flex justify-center items-center flex-col z-20 mt-[470px] relative">
     {tils.map((til) => (
       <TIL til={til}/>
     ))}
   </div>
-);
+)};
 
 export default TILList;

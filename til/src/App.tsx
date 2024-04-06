@@ -5,16 +5,18 @@ import TILList from "./components/til-list/TILList";
 import Header from "./components/header/Header";
 import PlusButton from "./components/plus-button/PlusButton";
 import Modal from "./components/modal/Modal";
+import { TILModel } from "./models/tils";
 
 function App() {
-  const [tils, setTils] = React.useState([]);
+  const [tils, setTils] = React.useState<TILModel[]>([]);
   const [isModalOpen, setIsModalOpen] = React.useState(false);
   const [isBeReady, setIsBeReady] = React.useState(false);
 
   useEffect(() => {
     const fetchData = async () => {
       const response = await fetch("/db.json");
-      const data = await response.json();
+      const data : TILModel[]= await response.json();
+      console.log(data)
       setTils(data);
     };
 

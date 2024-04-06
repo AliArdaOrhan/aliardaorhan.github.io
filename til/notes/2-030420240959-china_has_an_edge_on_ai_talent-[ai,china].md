@@ -1,7 +1,7 @@
 ---
 id: 2
 title: China has an serious edge on AI talent
-date: 2020-04-03 09:59:00
+date: 2024-04-03 09:59:00
 tags: 
   - ai
   - china

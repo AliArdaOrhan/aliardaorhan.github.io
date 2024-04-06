@@ -1,7 +1,7 @@
 ---
 id: 7
 title: We can fight against deepfakes as we fought against pedohilia
-date: 2020-04-03 15:37:00
+date: 2024-04-03 15:37:00
 tags: 
   - ai
   - safety

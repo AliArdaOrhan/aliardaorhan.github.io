@@ -1,7 +1,7 @@
 ---
 id: 3
 title: At last... Apple is working on AI empowered Siri
-date: 2020-04-03 11:36:00
+date: 2024-04-03 11:36:00
 tags: 
   - apple
   - ai

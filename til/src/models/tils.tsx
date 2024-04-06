@@ -4,6 +4,6 @@ export interface TILModel {
     title: string;
     content: string;
     tags: string[];
-    timestamp: string;
+    date: Date;
 }
 

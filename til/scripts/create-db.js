@@ -17,7 +17,11 @@ const notesData = notes.map(note => {
     });
     noteData.slug = note.replace('.md', '');
     return noteData;
-})
+}).sort((a, b) => {
+    return b.id - a.id;
+});
+
+
 
 // save the notesData to public folder
 const publicDir = path.join(__dirname, '../public');

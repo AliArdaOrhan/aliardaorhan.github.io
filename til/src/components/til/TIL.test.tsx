@@ -9,7 +9,7 @@ describe("TIL", () => {
       title: "Test Title",
       content: "Test Content",
       tags: ["Test Tag"],
-      timestamp: "01-01-2024 13:00",
+      date: new Date("01-01-2024 13:00"),
     };
     render(<TIL til={mockTIL} />);
 

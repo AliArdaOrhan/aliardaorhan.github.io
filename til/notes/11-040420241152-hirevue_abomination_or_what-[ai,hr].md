@@ -1,7 +1,7 @@
 ---
 id: 11
 title: "HireVue: an abomination or what?"
-date: 2024-04-04 12:11:52
+date: 2024-04-04 11:52:00
 tags: 
   - ai
   - hr

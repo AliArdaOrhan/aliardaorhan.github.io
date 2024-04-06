@@ -1,7 +1,7 @@
 ---
 id: 8
 title: US to ban TikTok which is an empty threat
-date: 2020-04-03 15:59:00
+date: 2024-04-03 15:59:00
 tags: 
   - tech
   - safety

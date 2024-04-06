@@ -1,7 +1,7 @@
 ---
 id: 4
 title: 'OpenUI: Future is coming'
-date: 2020-04-03 12:31:00
+date: 2024-04-03 12:31:00
 tags: 
   - ai
   - design

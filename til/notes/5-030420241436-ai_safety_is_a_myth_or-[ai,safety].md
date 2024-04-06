@@ -1,7 +1,7 @@
 ---
 id: 5
 title: AI Safety is a Myth or Reality?
-date: 2020-04-03 14:36:00
+date: 2024-04-03 14:36:00
 tags: 
   - ai
   - safety

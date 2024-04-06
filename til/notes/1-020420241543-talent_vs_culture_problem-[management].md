@@ -1,7 +1,7 @@
 ---
 id: 1
 title: Talent vs Culture Problem
-date: 2020-04-02 15:43:00
+date: 2024-04-02 15:43:00
 tags: 
   - management
 ---

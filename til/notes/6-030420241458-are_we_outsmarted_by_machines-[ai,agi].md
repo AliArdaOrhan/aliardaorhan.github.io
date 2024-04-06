@@ -1,7 +1,7 @@
 ---
 id: 6
 title: Are we outsmarted by machines?
-date: 2020-04-03 14:58:00
+date: 2024-04-03 14:58:00
 tags: 
   - ai
   - agi
