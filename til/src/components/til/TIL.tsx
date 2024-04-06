@@ -16,7 +16,7 @@ const TIL: React.FC<TILProps> = ({ til }) => (
       {/* Title */}
       <h2 className="mb-8 font-bold text-2xl hover:text-red-500 hover:cursor-pointer">{til.title}</h2>
       {/* Content */}
-      <ReactMarkdown className="prose mb-8">{til.content}</ReactMarkdown>
+      <ReactMarkdown className="prose mb-8 til-content">{til.content}</ReactMarkdown>
       {/* Footer */}
       <div className="flex justify-between">
         {/* Tags */}

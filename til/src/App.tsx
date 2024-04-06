@@ -15,8 +15,10 @@ function App() {
   useEffect(() => {
     const fetchData = async () => {
       const response = await fetch("/db.json");
-      const data : TILModel[]= await response.json();
-      console.log(data)
+      const data : TILModel[]= (await response.json()).filter((til: TILModel) => {
+        return til.published !== false;
+      });
+      
       setTils(data);
     };
 

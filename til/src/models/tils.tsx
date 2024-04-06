@@ -5,5 +5,6 @@ export interface TILModel {
     content: string;
     tags: string[];
     date: Date;
+    published?: boolean;
 }
 
