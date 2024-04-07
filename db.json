@@ -1,5 +1,16 @@
 [
   {
+    "id": 22,
+    "title": "Are we allowed to write our databases? 🫨",
+    "date": "2024-07-04T09:42:00.000Z",
+    "tags": [
+      "dev",
+      "database"
+    ],
+    "content": "\nJoke aside, brilliant work from [Hivekit](https://hivekit.io/) developers. Instead of using heavyweight PostGIS on the top of Postgresql, they just came up with their simple binary format and implemented their own file based database. And, voila! They saved 98% in cloud costs.\n\n**Impressed** 👏👏👏\n\n[How we’ve saved 98% in cloud costs by writing our own database\n](https://hivekit.io/blog/how-weve-saved-98-percent-in-cloud-costs-by-writing-our-own-database/?utm_source=tldrwebdev)",
+    "slug": "22-070420241142-are_we_allowed_to_write_our_databases-[dev,database]"
+  },
+  {
     "id": 21,
     "title": "More Automation, Less Religion",
     "date": "2024-07-04T20:24:11.000Z",
