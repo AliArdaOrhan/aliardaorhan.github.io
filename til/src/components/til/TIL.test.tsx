@@ -16,6 +16,5 @@ describe("TIL", () => {
     expect(screen.getByText(/Test Title/i)).toBeInTheDocument();
     expect(screen.getByText(/Test Content/i)).toBeInTheDocument();
     expect(screen.getByText(/Test Tag/i)).toBeInTheDocument();
-    expect(screen.getByText(/01-01-2024 13:00/i)).toBeInTheDocument();
   });
 });

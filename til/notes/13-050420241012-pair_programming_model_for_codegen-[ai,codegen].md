@@ -22,3 +22,6 @@ Second, skills that are not used are deteoriated. So, particularly in our case e
 So, I think in a few years codegen tools will become unreplacable part of our daily routine. But, they're not silver bullets and kind of far away from replacing software engineers as of now - Although I believe we'll be replaced in 5-10 year scale. Therefore, my suggestion in this transition period to developers, don't let it to deteriorate your skills. And, keep practicing until you master it. 
 
 
+[Developers with AI assistants need to follow the pair programming model](https://stackoverflow.blog/2024/04/03/developers-with-ai-assistants-need-to-follow-the-pair-programming-model)
+
+
