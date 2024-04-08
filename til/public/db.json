@@ -1,5 +1,52 @@
 [
   {
+    "id": 24,
+    "title": "Robotaxi: One Step Further to FSD",
+    "date": "2024-08-04T16:57:00.000Z",
+    "tags": [
+      "ai",
+      "fsd",
+      "ev"
+    ],
+    "content": "\n![robotaxi-tweet](./robotaxi-tweet.png)\nElon announced that tesla will unveil their futuristic-lookin robotaxi around August. It won't have any steering wheel or pedals. Just an another step to full self-driving world.\n\n![tesla-robotaxi](./tesla-robotaxi.webp)\n\nInterestingly, it kind of made Tesla owners feel a bit worried as future efforts of Tesla might focus on robotaxi rather than providing FSD to their existing customer.\n\nAnother point is legal requirements. It's not clear how Tesla will handle the legal requirements and we didn't see any progress on that side. Let's see what will happen.\n\n",
+    "slug": "24-080420241830-robotaxi_one_step_further_to_fsd-[ai,fsd,ev]"
+  },
+  {
+    "id": 23,
+    "title": "Future of Oculus",
+    "date": "2024-08-04T10:24:00.000Z",
+    "tags": [
+      "tech",
+      "ai",
+      "facebook"
+    ],
+    "content": "\n\nAfter Facebook bought Oculus 10 years ago, they're having challenges to make AR/VR technology mainstream. There's lack of content and shortcomings of hardware but Meta is progressing.\n\nInterestinly, Fitness is one of the selling point of oculus VR. But, it's contradicting with gaming. Because, you need to take different parameters into consideration if you're building a game or a fitness app. such as temperature, sweating etc.\n\nAnother challenge is controller part. If you're interacting with AR/VR world, you have couple of options such as voice commands, hand gestures and controllers. But, voice commands doesn't present best user experience. It's hard to navigate any UI with your voice. Therefore, Facebook is focusing on controllers which is a novel problem space which we haven't seen since XEROX PARC.\n\nIn terms of content, contrary to Rayban, Meta is focusing on shareability rather than spatial video, in short high-quality experiences are not first priority. Although AI wearables like Humane AI PIN and Rabbit R1 are adding more Gen-AI features into their tools, Meta doesn't have a clear plan for this year. However, they see Gen-AI as a solution to the challenges of creation of metaverse where users can describe their desired space and Ai can create for them.\n\nAlthough Meta's promises are not materialized yet, there's significant progress is going on. And, competition is getting fierce. There're important companies such as Apple are working on this space as well. And, after billions of invesments I just don't want to see Zuckerberg to fail.\n\n[10 Years After Facebook Bought Oculus, What's Next for Meta's VR Plans?](https://www.cnet.com/tech/computing/ten-years-after-facebook-bought-oculus-whats-next-for-metas-vr-plans/?utm_source=tldrnewsletter)",
+    "slug": "23-080420241011-future_of_oculus-[tech,ai,facebook]"
+  },
+  {
+    "id": 22,
+    "title": "Are we allowed to write our databases? 🫨",
+    "date": "2024-07-04T09:42:00.000Z",
+    "tags": [
+      "dev",
+      "database"
+    ],
+    "content": "\nJoke aside, brilliant work from [Hivekit](https://hivekit.io/) developers. Instead of using heavyweight PostGIS on the top of Postgresql, they just came up with their simple binary format and implemented their own file based database. And, voila! They saved 98% in cloud costs.\n\n**Impressed** 👏👏👏\n\n[How we’ve saved 98% in cloud costs by writing our own database\n](https://hivekit.io/blog/how-weve-saved-98-percent-in-cloud-costs-by-writing-our-own-database/?utm_source=tldrwebdev)",
+    "slug": "22-070420241142-are_we_allowed_to_write_our_databases-[dev,database]"
+  },
+  {
+    "id": 21,
+    "title": "More Automation, Less Religion",
+    "date": "2024-07-04T20:24:11.000Z",
+    "tags": [
+      "ai",
+      "religion"
+    ],
+    "published": true,
+    "content": "\n\n![AI vs Religion](./automation-vs-religion.png)\n\n\nCame across an interesting research that shows with exposure to automation, robots, and AI, people tend to become less religious. It's very counterintuitive, isn't it? I mean, I always thought that with more free time, people would be more likely to spend time on their religious activities. But it seems like it's not the case.\n\nMaybe it shows the shortcomings of existing religions in the modern world. In the end, they're products of their time. And they're designed to control and manage people of that time when science was in its infancy. Interestingly enough, the article also touches on Max Weber's view of science. He once said that science is the \"disenchantment of the world,\" in other words, science replaces supernatural explanations with rational and empirical ones.\n\nBut as researchers also stated, it didn't work well in the past, did it? Positivism of french lost, religion continued. And in some cases, it actually thrived. As a 100% atheist, that's reason I find this research very intriguing. Can the high-tech revolution nail the coffin of religion? Or will they change into something else? Who knows...\n\nHowever, I'm very happy to see that the number of Americans who believe their belonging to a church decreased from 70 percent in 1990 to 47 percent in 2020. In the end, nobody in the world wants a superpower run by religious zealots. It's dangerous... Just remind yourself of the Iraq war.\n\n\n[Where AI Thrives, Religion May Struggle\n](https://www.chicagobooth.edu/review/where-ai-thrives-religion-may-struggle)",
+    "slug": "21-070420241124-more_automation_less_religion_[ai,religion]"
+  },
+  {
     "id": 20,
     "title": "Yes, AI replaces jobs!",
     "date": "2024-04-08T00:09:45.000Z",
@@ -55,8 +102,8 @@
       "economy",
       "usa"
     ],
-    "content": "\n\n![Homeless guys beats helpers](./homeless-beating.png)\n\nHaha, don't know what to feel to be honest. A nice guy who helps homeless person by giving his own clothes gets beaten by the homeless person. It's dark, I know. But, at the same time leaving all those people without access to education, healthcare, shelter, food and so on is signature of American capitalism. So, you reap what you sowö huh?\n\n[Tweet](https://twitter.com/bosunatiklama/status/1776590300233744654)",
-    "slug": "16-060420242200-dont_know_what_to_say-[economy]"
+    "content": "\n\n![Homeless guys beats helpers](./homeless-beating.png)\n\nHaha, don't know what to feel to be honest. A nice guy who helps homeless person by giving his own clothes gets beaten by the homeless person. It's dark, I know. But, at the same time leaving all those people without access to education, healthcare, shelter, food and so on is signature of American capitalism, innit? So, you reap what you sow huh?\n\n[Tweet](https://twitter.com/bosunatiklama/status/1776590300233744654)\n\n\nDay by day, we're witnessing Chinese AI researchers got ahead of American AI researchers... I think one or another west needs to take his hat off and start to think about what they're doing wrong. And, starting point should be math education.",
+    "slug": "16-060420242200-american_capitalistm_at_its-best-[economy]"
   },
   {
     "id": 15,
