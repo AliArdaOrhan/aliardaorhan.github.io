@@ -1,6 +1,16 @@
 [
   {
     "id": 27,
+    "title": "Slow slow slow shipment! Why?",
+    "date": "2025-03-04T09:03:00.000Z",
+    "tags": [
+      "programming"
+    ],
+    "content": "\n\n\nInteresting read! Most featured problems are:\n\n- Complicated code base\n- High coupling between different services and libraries\n- Aligning with different stakeholders\n- Waiting for code reviews\n- Writing tests\n\n\n![slow-shipment-reasons](./slow-shipment-reasons.png)\n\n![short-slow-shipment-reasons](./short-slow-shipment-reasons.png)\n\n\nPersonally, I find \"writing tests\" a little bit awkward given that it provides good amount of confidence and safety. And, always pays off in the long run. But, obviously writing tests to legacy code base is a pain in the back.\n\nOther than that, it seems like excessive meeting culture and having a large codebase which didn't get enough attention are the main reasons for slow shipment. I think both of them can be addressable by \n\n- having less people in the loop\n- making teams more autonomous\n- having less \"micro\" microservices.\n- establishing a pair-programming culture\n\nOne way or another, every developer should understand we're paid by the value **we actually deliver**. Therefore, anything that blocks us to do so should be questioned and addressed.\n\n[I asked 100 devs why they aren’t shipping faster. Here’s what I learned?](https://greptile.com/blog/100-devs?utm_source=tldrnewsletter)",
+    "slug": "27-150420241051-why_are_slow-[programming]"
+  },
+  {
+    "id": 26,
     "title": "Criticism: Humane's AI PIN",
     "date": "2025-03-04T10:45:00.000Z",
     "tags": [
