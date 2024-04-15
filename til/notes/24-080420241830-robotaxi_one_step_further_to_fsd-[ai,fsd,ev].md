@@ -8,13 +8,11 @@ tags:
   - ev
 ---
 
-![tesla-robotaxi](./tesla-robotaxi.webp)
-
-Elon announced that Tesla will unveil their futuristic-looking robotaxi around August. It won't have any steering wheel or pedals. Just another step towards a fully self-driving world.
-
 ![robotaxi-tweet](./robotaxi-tweet.png)
 
-Interestingly, it kind of made Tesla owners feel a bit worried as future efforts of Tesla might focus on robotaxi rather than providing FSD to their existing customers.
+![tesla-robotaxi](./tesla-robotaxi.webp)
 
-Another point is legal requirements. It's not clear how Tesla will handle the legal requirements, and we haven't seen any progress on that side. Let's see what will happen.
+Ay yay yaaa!!! Elon's new toy... Robotaxi will unveil itself around August. And, it won't have any steering wheel or pedals. Cool, innit? 
+
+Although, we haven't seen how Tesla will go around the legal requirements. It's kinda big concern as we haven't see any paperwork done yet. Nevertheless, big step for the industry and for high-tech revolution.
 
