@@ -1,6 +1,6 @@
 ---
-id: 27
-title: 'Criticism: Humane's AI PIN'
+id: 26
+title: "Criticism: Humane's AI PIN"
 date: 2024-15-04 10:45:00
 tags: 
   - ai
