@@ -1,5 +1,16 @@
 [
   {
+    "id": 28,
+    "title": "Chip Wars",
+    "date": "2025-04-04T08:10:39.000Z",
+    "tags": [
+      "ai",
+      "computing"
+    ],
+    "content": "\n\nIt seems like chip wars are getting more intense with the latest revalations from Google. They're working on their own version of ARM chips to reduce power consumption and increase performance. Google Axion will have 30% ~ 50% better performance and 60% less power consumption according to Google Cloud CEO Thomas Kurian.\n\nHowever, Google will still be relying on NVIDIA chips. Google's famous products like Blackwell and TPU v5 will still be using chips from the giant. \n\nCompetition is good to be honest. Although, I sincerely believe every company should focus on their strengths rather than fields they don't have expertise or primary focus. Google Cloud in its essence is a cloud provider, not a chip manufacturer. And, intuitevely I can say that these kind of initiatives usually leads to sub-optimal results.\n\n[Google’s new chips look to challenge Nvidia, Microsoft and Amazon](https://qz.com/google-ai-chip-nvidia-axion-arm-microsoft-1851397201)",
+    "slug": "28-160420241008-chip_wars-[ai,computing]"
+  },
+  {
     "id": 27,
     "title": "Slow slow slow shipment! Why?",
     "date": "2025-03-04T09:03:00.000Z",
