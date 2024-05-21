@@ -1,5 +1,27 @@
 [
   {
+    "id": 30,
+    "title": "Google Code Review: Too many steps?",
+    "date": "2025-05-04T07:59:00.000Z",
+    "tags": [
+      "google",
+      "programming"
+    ],
+    "content": "\n\nI have to say I'm amazed by the number of steps google take to review any new PR - CL in google context- . They have 2 different tools called Critique and Gerrit. The latter one is used for open-sourced projects meanwhile the first one is used internally. They're very capable and provides good amount of metrics to understand impact radius of the change. You can get a glimpse of Gerrit from [this link](https://chromium-review.googlesource.com/q/status:open+-is:wip).\n\n![Gerrit-Screenshot](./gerrit-screenshot.png)\n\n\nBut, most interesting part is the approval process which requires 3 different set of people. First one is peer-review, where your code is reviewed by your team mates. Second you need to get approval from code owners. And, last but not least you need to get an approval for readability which is very google-specific concept. The idea is that ensuring that the committed code adheres to best possible standards defined in [a lengthy document](https://google.github.io/styleguide/pyguide.html).\n\nHowever, suprisingly instead of increasing cycle time, it actually decreases it. According to researches, google developers spend ***%78 less time than AMD, %75 less than Chrome OS, %79 from Microsoft developers*** on code reviews. Impressive, isn't it?",
+    "slug": "30-210520241136-google_code_review-[programming]"
+  },
+  {
+    "id": 29,
+    "title": "Tesla cuts 10% of workforce",
+    "date": "2025-05-04T07:59:00.000Z",
+    "tags": [
+      "tesla",
+      "ev"
+    ],
+    "content": "\n\nWow, the second wave of layoffs took its tool on Tesla. After the company announced their deliveries this year fell %8, it seems like they're trying to cut costs to keep the company competitive enough with Chinese EV manufacturers.\n\nThe year has started with big-tech layoffs, and although we didn't expect this it looks like [70000 employees are already laid off until now.]((https://layoffs.fyi/)) I'm not sure where it goes but I'm pretty sure we were already over-staffed and it was necessary to some extend. But, I'll honest last year and this year, the combined number is reached 180k. That's a lot of people.\n\n[Tesla will lay off more than 10% of global workforce: Read the Elon Musk memo\n](https://www.cnbc.com/2024/04/15/tesla-shares-dip-in-premarket-trade-on-global-layoff-reports.html)",
+    "slug": "29-170420240957-more_layoffs-[tesla,ev] copy"
+  },
+  {
     "id": 28,
     "title": "Chip Wars",
     "date": "2025-04-04T08:10:39.000Z",
