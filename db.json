@@ -1,17 +1,6 @@
 [
   {
-    "id": 30,
-    "title": "Google Code Review: Too many steps?",
-    "date": "2025-05-04T07:59:00.000Z",
-    "tags": [
-      "google",
-      "programming"
-    ],
-    "content": "\n\nI have to say I'm amazed by the number of steps google take to review any new PR - CL in google context- . They have 2 different tools called Critique and Gerrit. The latter one is used for open-sourced projects meanwhile the first one is used internally. They're very capable and provides good amount of metrics to understand impact radius of the change. You can get a glimpse of Gerrit from [this link](https://chromium-review.googlesource.com/q/status:open+-is:wip).\n\n![Gerrit-Screenshot](./gerrit-screenshot.png)\n\n\nBut, most interesting part is the approval process which requires 3 different set of people. First one is peer-review, where your code is reviewed by your team mates. Second you need to get approval from code owners. And, last but not least you need to get an approval for readability which is very google-specific concept. The idea is that ensuring that the committed code adheres to best possible standards defined in [a lengthy document](https://google.github.io/styleguide/pyguide.html).\n\nHowever, suprisingly instead of increasing cycle time, it actually decreases it. According to researches, google developers spend ***%78 less time than AMD, %75 less than Chrome OS, %79 from Microsoft developers*** on code reviews. Impressive, isn't it?",
-    "slug": "30-210520241136-google_code_review-[programming]"
-  },
-  {
-    "id": 30,
+    "id": 31,
     "title": "Google Photos AI Update",
     "date": "2025-05-04T07:59:00.000Z",
     "tags": [
@@ -21,6 +10,17 @@
     ],
     "content": "\n\nGoogle Photos is receiving a huge update and Gemini will be integrated into it for better searches. We'll be able to query all photos with natural lnaguage like \"list me the last 10 countries that I've visited\" or \"list me photos of people with the most photos\" etc.\n\nI think this is a clear example of how LLM models will be integrated into almost every app. One way or another, they'll be our primary interface for interacting with digital world. And, it's not a promise, it's here. Exciting times...\n\n[Article can be found here](https://www.digitaltrends.com/mobile/the-one-ai-feature-from-google-io-2024-i-cant-wait-for-gemini-google-photos/#dt-heading-first-what-is-gemini)",
     "slug": "31-210520241205-google_photos_update-[google,ai,photos]"
+  },
+  {
+    "id": 30,
+    "title": "Google Code Review: Too many steps?",
+    "date": "2025-05-04T07:59:00.000Z",
+    "tags": [
+      "google",
+      "programming"
+    ],
+    "content": "\n\nI have to say I'm amazed by the number of steps google take to review any new PR - CL in google context- . They have 2 different tools called Critique and Gerrit. The latter one is used for open-sourced projects meanwhile the first one is used internally. They're very capable and provides good amount of metrics to understand impact radius of the change. You can get a glimpse of Gerrit from [this link](https://chromium-review.googlesource.com/q/status:open+-is:wip).\n\n![Gerrit-Screenshot](./gerrit-screenshot.png)\n\n\nBut, most interesting part is the approval process which requires 3 different set of people. First one is peer-review, where your code is reviewed by your team mates. Second you need to get approval from code owners. And, last but not least you need to get an approval for readability which is very google-specific concept. The idea is that ensuring that the committed code adheres to best possible standards defined in [a lengthy document](https://google.github.io/styleguide/pyguide.html).\n\nHowever, suprisingly instead of increasing cycle time, it actually decreases it. According to researches, google developers spend ***%78 less time than AMD, %75 less than Chrome OS, %79 from Microsoft developers*** on code reviews. Impressive, isn't it?",
+    "slug": "30-210520241136-google_code_review-[programming]"
   },
   {
     "id": 29,
