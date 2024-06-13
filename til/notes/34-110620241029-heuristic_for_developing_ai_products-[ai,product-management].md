@@ -1,7 +1,7 @@
 ---
 id: 34
 title: "A Heuristic for Developing AI Products"
-date: 2024-17-11 09:29:00
+date: 2024-11-06 09:29:00
 tags:
   - ai
   - product management
@@ -18,4 +18,3 @@ However, what Ben argues more importantly is using these general purpose technol
 That's the heuristic Ben's applying to new type of applications where basic capabilities of platform are hid from users and error-rate is reduced to something ignorable. 
 
 I also believe that'll be the path to build technologies that will have transformative effect on our society. Any other addition done to applications like Slack, Email, Zoom etc. are just incremental ones which are nice but won't be impactful as the hype suggests. 
-

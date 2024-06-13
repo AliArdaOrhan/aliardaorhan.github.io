@@ -1,7 +1,7 @@
 ---
 id: 32
 title: "Are agile standups necessary evils?"
-date: 2024-17-04 07:59:00
+date: 2024-04-06 07:59:00
 tags:
   - agile
   - programming

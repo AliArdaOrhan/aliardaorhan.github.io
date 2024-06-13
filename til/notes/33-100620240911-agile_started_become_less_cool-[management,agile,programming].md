@@ -1,7 +1,7 @@
 ---
 id: 33
 title: "Agile becomes less cool?"
-date: 2024-17-10 08:12:00
+date: 2024-10-06 08:12:00
 tags:
   - agile
   - programming

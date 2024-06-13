@@ -1,19 +1,29 @@
 [
   {
+    "id": 35,
+    "title": "The Right strikes again!",
+    "date": "2025-01-06T09:29:00.000Z",
+    "tags": [
+      "politics"
+    ],
+    "content": "\n\nWhat a year we're having... On one side, we're planning to colonize Mars, on another side high-tech revolution is on the way with incredible speed, on geopolitic arena war drums can be heard everywhere, and now the right seems to be on the way to power in EU.\n\nAfter the EU elections, It seems like [Le Pen and right-wing parties in France are going into coalition](https://www.politico.eu/article/emmanuel-macron-marine-le-pen-france-brexit-moment-elections-ursula-von-der-leyen-electorate/) with anti-eu and anti-immigrant discourse. It's understandable, there's some sort of negative narrative in prosperous EU countries that they're losing their wealth and power because of uncontrolled and illegal immigration. However, I'm not sure if this is the case.\n\n![Macron vs Le Pen](./macron-lepen.png)\n\nBecause, on the Atlantic side the capability of American economy to innovate and reinvent itself is waaaaay ahead of EU. And, on the Pacific side, China is catching up maybe even surpassing the US. In this scenario, the old continent seems struggling to keep up. There's no Tesla, Apple, Amazon, Microsoft or NVIDIA in Europe. Just think about last 10 years, how many transformative and exciting technology you heard from EU companies? Nothing serious comes to my mind. (Please, compare it with smart phone, ev, ai, cloud computing, etc.) And, most of the time it looks like EU companies are replicating the business model and technologies of their US counterparts. Not different than what China does...\n\nLong story short, I don't think economical problems and stagnation of EU caused by immigrant policy. To my observation, it's more about conservative europeans are not willing to go further with liberal policies which they deemed as a threat to their culture and values. But, the matter of values are also controversial. Are those values of europe open to people who want to be part of it no matter what their races, sexual orientations, religions are? Or, is it some sort of weapons in the hand of right to execute their agenda by using them against lower-class people who has less education and less income? \n\nI'm not sure about the answer. It feels like it's Goliath versus David without slingshot. However, I do believe in universal values and I also believe these values are not under the privilege of any specific countries. It's human heritage where you can track its history to [ancient times of Babylon](https://en.wikipedia.org/wiki/Cyrus_Cylinder). Therefore, attacking them is not only a threat to the EU but also to the whole humanity.\n\nSo, what the European Right promises is vague and not clear. Are we going to risk most peaceful project in human history called European Union, just because of controversial thesis of right-wing parties? I hope not. But, it's clearly a possibility.\n\nSo, I have one question in my mind for those who share the very same concerns with me, where we go when the human achievements are under threat from every sides? What we do?\n\n",
+    "slug": "35-130620241031-right_strikes_again-[politics,france]"
+  },
+  {
     "id": 34,
     "title": "A Heuristic for Developing AI Products",
-    "date": "2025-05-11T09:29:00.000Z",
+    "date": "2024-11-06T09:29:00.000Z",
     "tags": [
       "ai",
       "product management"
     ],
-    "content": "\n\nHow're we going to build new AI applications? Nowadays, it's one of the most popular questions in the tech industry as the LLM models are all the rage. Don't get me wrong, it's not that straightforward as it seems as models are still hallucinating. Therefore the question of how much we can be sure about the correctness of the outputs that model producing?\n\n[I've came across an article from Ben Evans](https://www.ben-evans.com/benedictevans/2024/6/8/building-ai-products), poplar blogger. He argues that for building AI products we have 2 different paths in front of us.\n\nOne of them is narrowing UI for specific tasks. In this way, a general purpose tool is narrowed down a specific use case and all prompts are built in the interface as buttons, sliders or whatever you can think of. This very heuristic can be used to explain latest boom in coding assistants, marketing toos, knowledge management tools etc.\n\nHowever, what Ben argues more importantly is using these general purpose technologies to build new application which he calls platform-native. For example, Instagram utilised smartphone's, let's call it platform in this case, cameras and computing resources to come up with a native photo-sharing experience. So, basically capabilities of the platform is hid behind the application and invisible to the user.\n\nThat's the heuristic Ben's applying to new type of applications where basic capabilities of platform are hid from users and error-rate is reduced to something ignorable. \n\nI also believe that'll be the path to build technologies that will have transformative effect on our society. Any other addition done to applications like Slack, Email, Zoom etc. are just incremental ones which are nice but won't be impactful as the hype suggests. \n\n",
+    "content": "\n\nHow're we going to build new AI applications? Nowadays, it's one of the most popular questions in the tech industry as the LLM models are all the rage. Don't get me wrong, it's not that straightforward as it seems as models are still hallucinating. Therefore the question of how much we can be sure about the correctness of the outputs that model producing?\n\n[I've came across an article from Ben Evans](https://www.ben-evans.com/benedictevans/2024/6/8/building-ai-products), poplar blogger. He argues that for building AI products we have 2 different paths in front of us.\n\nOne of them is narrowing UI for specific tasks. In this way, a general purpose tool is narrowed down a specific use case and all prompts are built in the interface as buttons, sliders or whatever you can think of. This very heuristic can be used to explain latest boom in coding assistants, marketing toos, knowledge management tools etc.\n\nHowever, what Ben argues more importantly is using these general purpose technologies to build new application which he calls platform-native. For example, Instagram utilised smartphone's, let's call it platform in this case, cameras and computing resources to come up with a native photo-sharing experience. So, basically capabilities of the platform is hid behind the application and invisible to the user.\n\nThat's the heuristic Ben's applying to new type of applications where basic capabilities of platform are hid from users and error-rate is reduced to something ignorable. \n\nI also believe that'll be the path to build technologies that will have transformative effect on our society. Any other addition done to applications like Slack, Email, Zoom etc. are just incremental ones which are nice but won't be impactful as the hype suggests. ",
     "slug": "34-110620241029-heuristic_for_developing_ai_products-[ai,product-management]"
   },
   {
     "id": 33,
     "title": "Agile becomes less cool?",
-    "date": "2025-05-10T08:12:00.000Z",
+    "date": "2024-10-06T08:12:00.000Z",
     "tags": [
       "agile",
       "programming",
@@ -25,7 +35,7 @@
   {
     "id": 32,
     "title": "Are agile standups necessary evils?",
-    "date": "2025-05-04T07:59:00.000Z",
+    "date": "2024-04-06T07:59:00.000Z",
     "tags": [
       "agile",
       "programming"
@@ -36,7 +46,7 @@
   {
     "id": 31,
     "title": "Google Photos AI Update",
-    "date": "2025-05-04T07:59:00.000Z",
+    "date": "2025-09-05T07:59:00.000Z",
     "tags": [
       "google",
       "google photos",
@@ -48,7 +58,7 @@
   {
     "id": 30,
     "title": "Google Code Review: Too many steps?",
-    "date": "2025-05-04T07:59:00.000Z",
+    "date": "2025-09-05T07:59:00.000Z",
     "tags": [
       "google",
       "programming"
