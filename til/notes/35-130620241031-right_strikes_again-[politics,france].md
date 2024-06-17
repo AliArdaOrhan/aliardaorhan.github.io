@@ -1,7 +1,7 @@
 ---
 id: 35
 title: "The Right strikes again!"
-date: 2024-13-06 09:29:00
+date: 2024-06-13 09:29:00
 tags:
   - politics
 ---
